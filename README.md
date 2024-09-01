@@ -7,14 +7,6 @@ This repository contains a test website called **Manage**, which I created to sh
 - [Demo](#demo)
 - [Features](#features)
 - [Technologies](#technologies)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Demo
-
-You can check out a live demo of the **Manage** test website here: [Live Demo](#)
 
 ## Features
 
