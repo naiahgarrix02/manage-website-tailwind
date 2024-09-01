@@ -4,7 +4,6 @@ This repository contains a test website called **Manage**, which I created to sh
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Features](#features)
 - [Technologies](#technologies)
 
